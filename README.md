@@ -1,6 +1,6 @@
 ## Olá! Eu sou Silas Matheus!
 
-- 👨🏻‍🎓Formando em **ADS** - **Análise e Desenvolvimento de Sistemas**
+- 👨🏻‍🎓Formado em **ADS** - **Análise e Desenvolvimento de Sistemas**
 - 🔭 Trabalho com Desenvolvimento em Front-End
 - 🌱 Estou estudando **Javascript, Typescript, Bootstrap e React**
 - 🖥️ Consigo desenvolver em **HTML, CSS, JS, Bootstrap e JAVA**
